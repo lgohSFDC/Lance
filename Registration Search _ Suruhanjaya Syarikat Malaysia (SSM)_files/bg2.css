@@ -1,0 +1,60 @@
+@media (max-width: 479px) {
+
+ html {
+  background: url(../images/dawn480.png) no-repeat top center; 
+  -moz-background-size: auto;
+  /* WebKit */
+  -webkit-background-size: auto;
+  /* Opera 9.5+, later Google Chrome */
+  background-size: auto;
+  -o-background-size: auto;
+
+ }
+
+}
+
+@media all and (min-width: 480px) and (max-width: 759px) {
+
+ html {
+  background: url(../images/dawn760.png) no-repeat top center;
+  -moz-background-size: auto;
+  /* WebKit */
+  -webkit-background-size: auto;
+  /* Opera 9.5+, later Google Chrome */
+  background-size: auto;
+  -o-background-size: auto;
+
+ }
+
+}
+
+@media all and (min-width: 760px) and (max-width: 979px) {
+
+ html {
+  background: url(../images/dawn980.png) no-repeat top center;
+  -moz-background-size: auto;
+  /* WebKit */
+  -webkit-background-size: auto;
+  /* Opera 9.5+, later Google Chrome */
+  background-size: auto;
+  -o-background-size: auto;
+
+ }
+
+}
+
+/*DESKTOP SCREENS*/
+@media all and (min-width: 980px) {
+
+ html {
+  background: url(../images/dawn.png) no-repeat top center;
+  -moz-background-size: auto;
+  /* WebKit */
+  -webkit-background-size: auto;
+  /* Opera 9.5+, later Google Chrome */
+  background-size: auto;
+  -o-background-size: auto;
+
+ }
+
+}

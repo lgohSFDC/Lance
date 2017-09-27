@@ -1,0 +1,70 @@
+@media (max-width: 479px) {
+
+ html {
+/*  background: url(../images/day480.png) no-repeat top center; */
+    background-image: url("../images/day480.png");
+    background-repeat: no-repeat;
+  -moz-background-size: 100% auto;
+  /* WebKit */
+  -webkit-background-size: 100% auto;
+  /* Opera 9.5+, later Google Chrome */
+  background-size: 100% auto;
+  -o-background-size: 100% auto;
+
+ }
+
+
+}
+
+@media all and (min-width: 480px) and (max-width: 759px) {
+
+ html {
+/*  background: url(../images/day760.png) no-repeat top center; */
+    background-image: url("../images/day760.png");
+    background-repeat: no-repeat;
+  -moz-background-size: 100% auto;
+  /* WebKit */
+  -webkit-background-size: 100% auto;
+  /* Opera 9.5+, later Google Chrome */
+  background-size: 100% auto;
+  -o-background-size: 100% auto;
+
+ }
+
+}
+
+@media all and (min-width: 760px) and (max-width: 979px) {
+
+ html {
+    background-image: url("../images/day980.png");
+    background-repeat: no-repeat;
+
+  -moz-background-size: 100% auto;
+  /* WebKit */
+  -webkit-background-size: 100% auto;
+  /* Opera 9.5+, later Google Chrome */
+  background-size: 100% auto;
+  -o-background-size: 100% auto;
+
+ }
+
+}
+
+/*DESKTOP SCREENS*/
+@media all and (min-width: 980px) {
+
+ html {
+    background-image: url("../images/day.png");
+    background-repeat: no-repeat;
+
+  -moz-background-size: 100% auto;
+  /* WebKit */
+  -webkit-background-size: 100% auto;
+  /* Opera 9.5+, later Google Chrome */
+  background-size: 100% auto;
+  -o-background-size: 100% auto;
+
+ }
+
+
+}
